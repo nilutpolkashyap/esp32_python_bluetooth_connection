@@ -1,2 +1,1 @@
-# arduino_with_ros
-arduino_with_ros
+# esp32_python_bluetooth_connection
