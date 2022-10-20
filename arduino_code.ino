@@ -10,10 +10,10 @@ char rec= 'A';
 
 void setup(){
   //Initialize Serial for debugging purposes
-  Serial.begin(9600);
+  Serial.begin(115200);
   Serial.println("Serial ready");
   //Initialize the bluetooth
-  bluetooth.begin("ESP32test");
+  bluetooth.begin("MagicWand");
   bluetooth.println("Bluetooth ready");
 }
 
